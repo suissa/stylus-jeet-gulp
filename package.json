@@ -26,6 +26,7 @@
     "url": "https://github.com/suissa/stylus-jeet-gulp.git"
   },
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "preinstall": "node preinstall.js"
   }
 }
